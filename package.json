@@ -1,0 +1,1 @@
+{"description":"Photo-led 1024x1024 news poster for Friday 20 November 2026","license":"MIT","name":"news-image-20261120-3","private":true,"scripts":{"draw":"python3 tools/make_image.py","start":"node main.ts"},"type":"module","version":"1.0.0"}
